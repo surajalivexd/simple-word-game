@@ -23,7 +23,6 @@ else if(random-10<=a&&random+10>=a){
 else{
 	cout<<"Cold"<<endl;
 }
-
 	}
 	return 0;
 }
