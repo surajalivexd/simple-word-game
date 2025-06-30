@@ -4,5 +4,5 @@
 using namespace std;
 int main(){
 cout<<"suraj"<<endl;
-cout<<"biryani"<<endl;
+cout<<"age = 17 "<<endl;
 }
